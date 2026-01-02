@@ -36,4 +36,4 @@ Small Java project for experimentation and learning. Contains source code, tests
 - Keep changes focused and include a short description in the PR.
 
 ## License
-Add a `LICENSE` file to specify the project license. If none is present, consider adding an open-source license (for example, MIT).
+MIT License.
