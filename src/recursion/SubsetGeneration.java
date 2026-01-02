@@ -17,12 +17,15 @@ public class SubsetGeneration {
     }
 
     private static void recur (List<List<Integer>> ans, int[] arr, ArrayList<Integer> curr, int ind) {
-        if(curr.size() == 3) {
+        if(ind == arr.length) {
             ans.add(new ArrayList<>(curr));
             return;
         }
         recur(ans, arr, curr, ind+1);
+
         curr.add(arr[ind]);
         recur(ans, arr, curr, ind+1);
+
+        curr.remove(curr.size()-1);
     }
 }
