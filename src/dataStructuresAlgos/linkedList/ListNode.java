@@ -1,4 +1,4 @@
-package dataStructures.linkedList;
+package dataStructuresAlgos.linkedList;
 
 public class ListNode {
     int val;

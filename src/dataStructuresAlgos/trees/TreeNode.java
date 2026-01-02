@@ -1,4 +1,4 @@
-package dataStructures.trees;
+package dataStructuresAlgos.trees;
 
 public class TreeNode {
     public int val;

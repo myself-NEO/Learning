@@ -1,4 +1,4 @@
-import dataStructures.trees.TreeNode;
+import dataStructuresAlgos.trees.TreeNode;
 
 public class countNonLeaves {
     public static void main(String[] args) {

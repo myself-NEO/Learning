@@ -1,6 +1,6 @@
 //Get all subsets of a given array/
 
-package recursion;
+package dataStructuresAlgos.recursion;
 
 import java.util.ArrayList;
 import java.util.List;

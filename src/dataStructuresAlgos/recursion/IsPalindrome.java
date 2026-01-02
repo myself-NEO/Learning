@@ -1,6 +1,6 @@
 //You are given a string, you need to check if that string is a palindrome.
 
-package recursion;
+package dataStructuresAlgos.recursion;
 
 public class IsPalindrome {
     public static void main(String[] args) {

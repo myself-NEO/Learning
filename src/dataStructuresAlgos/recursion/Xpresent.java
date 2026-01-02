@@ -2,7 +2,7 @@
 //We need to find if X is present in the array.
 
 
-package recursion;
+package dataStructuresAlgos.recursion;
 
 public class Xpresent {
     public static void main(String[] args) {
