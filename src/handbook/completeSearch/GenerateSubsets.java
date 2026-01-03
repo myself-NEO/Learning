@@ -28,8 +28,10 @@ public class GenerateSubsets {
             return;
         }
 
+//        Without including the curr
         generateSubsets(n, ind+1, curr, ans);
 
+//        On including the curr
         curr.add(ind+1);
         generateSubsets(n, ind+1, curr, ans);
 
