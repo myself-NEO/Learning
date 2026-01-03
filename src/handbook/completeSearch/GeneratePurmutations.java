@@ -1,3 +1,8 @@
+/*
+This works if we don't have duplicate elements.
+What if we have duplicate elements like, 1, 2, 2
+*/
+
 package handbook.completeSearch;
 
 import java.util.ArrayList;
