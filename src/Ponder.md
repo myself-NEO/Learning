@@ -2,3 +2,4 @@
 
 ## Complete Search
 - [Generate Purmutations with duplicates](handbook/completeSearch/PermutationsWithDuplicates.java)
+- [N Queen Optimized](handbook/completeSearch/NqueenOptimized.java)
