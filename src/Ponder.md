@@ -1,4 +1,4 @@
 # Questions to ponder over
 
 ## Complete Search
-- [Generate Purmutations with duplicates](src/handbook/completeSearch/PermutationsWithDuplicates.java)
+- [Generate Purmutations with duplicates](handbook/completeSearch/PermutationsWithDuplicates.java)
