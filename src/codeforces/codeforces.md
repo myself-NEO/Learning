@@ -2,4 +2,6 @@
 
 ## [Greedy Algos](https://codeforces.com/problemset?tags=greedy,800-1200)
 
-- [2169A : Alice and Bob](AliceBob.java) - <a href="https://codeforces.com/problemset/problem/2169/A" target="_blank">Codeforce link</a>
+- [2169A : Alice and Bob](AliceBob.java) - [Codeforces link](https://codeforces.com/problemset/problem/2169/A)
+- [2169B : Drifting Away](DriftingAway.java) - [Codeforces link](https://codeforces.com/problemset/problem/2169/B)
+- 
